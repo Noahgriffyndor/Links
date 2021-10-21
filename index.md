@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+<title>Links</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  background-color: #380000;
+  background-image: url("pictures/leather.png");
+  margin: 10%; 
+  font-family: sans-serif
+  } 
 
-You can use the [editor on GitHub](https://github.com/Noahgriffyndor/Links/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  color:RGB(206,209,50);
+  text-transform: uppercase;
+  border-bottom: 1px solid RGB(156,159,15);
+  margin-top: 30px;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+h2 {
+  color: RGB(206,209,50);
+  font-size: 20px;
+  font-family: Amasis MT Pro;
+  margin-top: 40px
+}
+h3 { text-align: center;   
+  color: RGB(206,209,50);
+  font-size: 24px;
+  font-family: Amasis MT Pro;
+  margin-top: 60px }
+img {
+	max-width: 100%;
+}
+a:link {color: yellow; }
+a:visited {color: red; }
+a:hover {color: white; background-color: black }
+p { color:RGB(206,209,200)}
+.hght {height: 300px; width: auto} 
+</style>
 
-### Markdown
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<h1>Links to Websites for FaB TCG</h1>
 
-- Bulleted
-- List
+<h2>Top Sites</h2>
+<p>
+<a href="https://www.tcgplayer.com/search/flesh-and-blood-tcg/tales-of-aria?productLineName=flesh-and-blood-tcg&setName=tales-of-aria&page=1&view=grid">TCG Player</a>
+is a great website to buy, sell, and research various cards.  TCG Player also has an accurate price guide that is useful for memebers that run a store front.<br><br>
 
-1. Numbered
-2. List
+<a href="https://teamcovenant.com/product-category/buy-flesh-blood-tcg-legend-story-studios">Team Covenant</a>
+is an good for buying in bulk.  They run a subscription service that automatically charges you and ships your boxes through the mail.  So there isn't a worry about scalpers or boxes running out when your subscribed.<br><br>
 
-**Bold** and _Italic_ and `Code` text
+<a href="https://fabtcg.com/">FABTCG</a>
+is the home page from the creators.  All announcements about new box sets coming out come from this website.  They also allow you to search for stores in your area that sell FaB in their store.  You can find informaton about upcoming tournaments and championships.<br><br>
 
-[Link](url) and ![Image](src)
-```
+<h2>Shopping sites</h2>
+<a href="https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=flesh+and+blood&_sacat=0">Ebay</a><br>
+<a href="https://starcitygames.com/fleshandblood/">Starcity Games</a><br>
+<a href="https://strategy.channelfireball.com/all-strategy/flesh-and-blood/">Channel Fireball</a><br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h2>Research sites</h2>
+<a href="https://fabdb.net/">FaBdb</a><br>
+<a href="https://twitter.com/fabtcg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">FaB Twitter Homepage</a><br>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Noahgriffyndor/Links/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</p>
